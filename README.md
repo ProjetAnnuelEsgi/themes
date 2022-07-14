@@ -1,2 +1,2 @@
-# th-mes
+# themes
 développement d'un thème
